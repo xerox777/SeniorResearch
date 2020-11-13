@@ -1,0 +1,1692 @@
+input: /Users/macbook/Desktop/ssu/LAST_SEMESTER/cs496/defconscorelib/pcaps/dragonsector/dragonsector_00076_20140808161530.cap
+filter: (ip || ip6)
+match: q.X.E.t.y.6.P.C.x.T.1.k.U.
+
+T 10.5.15.2:4444 -> 10.5.16.2:39338 [AP] #1171
+  ballz..Server: CTF2014 sers3AEPjUus+4GlAFU1Jw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.12.2:4085 [AP] #1849
+  ballz..Server: CTF2014 fHTIBuv2Fvdm480YhltlyA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.11.2:58468 [AP] #1966
+  ballz..Server: CTF2014 JrmTfUuKpwQYX8eaq1YnrA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.6.2:52724 [AP] #2236
+  ballz..Server: CTF2014 18uJ4hZRFceJp00xp0AjDA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.8.2:4097 [AP] #2497
+  ballz..Server: CTF2014 JDYqS8SPvOvqhwKlqM18Dg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.14.2:43491 [AP] #2542
+  ballz..Server: CTF2014 1FU4K5KjU7+Z12izNF6pfg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+input: /Users/macbook/Desktop/ssu/LAST_SEMESTER/cs496/defconscorelib/pcaps/dragonsector/dragonsector_00076_20140808161530.cap
+filter: (ip || ip6)
+match: q.X.E.t.y.6.P.C.x.T.1.k.U.
+
+T 10.5.15.2:4444 -> 10.5.16.2:39338 [AP] #1171
+  ballz..Server: CTF2014 sers3AEPjUus+4GlAFU1Jw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.12.2:4085 [AP] #1849
+  ballz..Server: CTF2014 fHTIBuv2Fvdm480YhltlyA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.11.2:58468 [AP] #1966
+  ballz..Server: CTF2014 JrmTfUuKpwQYX8eaq1YnrA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.6.2:52724 [AP] #2236
+  ballz..Server: CTF2014 18uJ4hZRFceJp00xp0AjDA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.8.2:4097 [AP] #2497
+  ballz..Server: CTF2014 JDYqS8SPvOvqhwKlqM18Dg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.14.2:43491 [AP] #2542
+  ballz..Server: CTF2014 1FU4K5KjU7+Z12izNF6pfg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+input: /Users/macbook/Desktop/ssu/LAST_SEMESTER/cs496/defconscorelib/pcaps/dragonsector/dragonsector_00076_20140808161530.cap
+filter: (ip || ip6)
+match: q.X.E.t.y.6.P.C.x.T.1.k.U.
+
+T 10.5.15.2:4444 -> 10.5.16.2:39338 [AP] #1171
+  ballz..Server: CTF2014 sers3AEPjUus+4GlAFU1Jw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.12.2:4085 [AP] #1849
+  ballz..Server: CTF2014 fHTIBuv2Fvdm480YhltlyA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.11.2:58468 [AP] #1966
+  ballz..Server: CTF2014 JrmTfUuKpwQYX8eaq1YnrA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.6.2:52724 [AP] #2236
+  ballz..Server: CTF2014 18uJ4hZRFceJp00xp0AjDA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.8.2:4097 [AP] #2497
+  ballz..Server: CTF2014 JDYqS8SPvOvqhwKlqM18Dg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.14.2:43491 [AP] #2542
+  ballz..Server: CTF2014 1FU4K5KjU7+Z12izNF6pfg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+input: /Users/macbook/Desktop/ssu/LAST_SEMESTER/cs496/defconscorelib/pcaps/dragonsector/dragonsector_00076_20140808161530.cap
+filter: (ip || ip6)
+match: q.X.E.t.y.6.P.C.x.T.1.k.U.
+
+T 10.5.15.2:4444 -> 10.5.16.2:39338 [AP] #1171
+  ballz..Server: CTF2014 sers3AEPjUus+4GlAFU1Jw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.12.2:4085 [AP] #1849
+  ballz..Server: CTF2014 fHTIBuv2Fvdm480YhltlyA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.11.2:58468 [AP] #1966
+  ballz..Server: CTF2014 JrmTfUuKpwQYX8eaq1YnrA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.6.2:52724 [AP] #2236
+  ballz..Server: CTF2014 18uJ4hZRFceJp00xp0AjDA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.8.2:4097 [AP] #2497
+  ballz..Server: CTF2014 JDYqS8SPvOvqhwKlqM18Dg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.14.2:43491 [AP] #2542
+  ballz..Server: CTF2014 1FU4K5KjU7+Z12izNF6pfg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+input: /Users/macbook/Desktop/ssu/LAST_SEMESTER/cs496/defconscorelib/pcaps/dragonsector/dragonsector_00076_20140808161530.cap
+filter: (ip || ip6)
+match: q.X.E.t.y.6.P.C.x.T.1.k.U.
+
+T 10.5.15.2:4444 -> 10.5.16.2:39338 [AP] #1171
+  ballz..Server: CTF2014 sers3AEPjUus+4GlAFU1Jw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.12.2:4085 [AP] #1849
+  ballz..Server: CTF2014 fHTIBuv2Fvdm480YhltlyA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.11.2:58468 [AP] #1966
+  ballz..Server: CTF2014 JrmTfUuKpwQYX8eaq1YnrA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.6.2:52724 [AP] #2236
+  ballz..Server: CTF2014 18uJ4hZRFceJp00xp0AjDA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.8.2:4097 [AP] #2497
+  ballz..Server: CTF2014 JDYqS8SPvOvqhwKlqM18Dg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.14.2:43491 [AP] #2542
+  ballz..Server: CTF2014 1FU4K5KjU7+Z12izNF6pfg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+input: /Users/macbook/Desktop/ssu/LAST_SEMESTER/cs496/defconscorelib/pcaps/dragonsector/dragonsector_00076_20140808161530.cap
+filter: (ip || ip6)
+match: q.X.E.t.y.6.P.C.x.T.1.k.U.
+
+T 10.5.15.2:4444 -> 10.5.16.2:39338 [AP] #1171
+  ballz..Server: CTF2014 sers3AEPjUus+4GlAFU1Jw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.12.2:4085 [AP] #1849
+  ballz..Server: CTF2014 fHTIBuv2Fvdm480YhltlyA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.11.2:58468 [AP] #1966
+  ballz..Server: CTF2014 JrmTfUuKpwQYX8eaq1YnrA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.6.2:52724 [AP] #2236
+  ballz..Server: CTF2014 18uJ4hZRFceJp00xp0AjDA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.8.2:4097 [AP] #2497
+  ballz..Server: CTF2014 JDYqS8SPvOvqhwKlqM18Dg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.14.2:43491 [AP] #2542
+  ballz..Server: CTF2014 1FU4K5KjU7+Z12izNF6pfg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..qNXqEFtjyw6RPdCAxlTy1Kk6UB.                                                                                                           
+input: /Users/macbook/Desktop/ssu/LAST_SEMESTER/cs496/defconscorelib/pcaps/dragonsector/dragonsector_00076_20140808161530.cap
+filter: (ip || ip6)
+match: O.B.m.4.x.Z.Y.m.4.y.2.r.U.
+
+T 10.5.15.2:4444 -> 10.5.8.2:4109 [AP] #2737
+  ballz..Server: CTF2014 RaAXA6xiAWmU8oVdM2y4UQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.11.2:52784 [AP] #3480
+  ballz..Server: CTF2014 5sNChTZCADwPjZYTbrl0EA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:4124 [AP] #4488
+  ballz..Server: CTF2014 BeNFiPAZ7uPMRTo8v59yfA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.13.2:58566 [AP] #4623
+  ballz..Server: CTF2014 NI+jpnGSp7W7ifx4IpRWnQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.3.2:4135 [AP] #5429
+  ballz..Server: CTF2014 9Fnpxi66yrLxvMJSBY302A==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.10.2:35801 [AFP] #5451
+  ballz..Server: CTF2014 +esKdFSfOkMdH1mYjsrrqg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.*** Error in `wdub': free(): invalid pointer: 0x00078fe8 ***.                                              
+
+T 10.5.15.2:4444 -> 10.5.6.2:43585 [AP] #5486
+  ballz..Server: CTF2014 saRwnXhKar0W02U5vOBNVQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:51145 [AP] #5656
+  ballz..Server: CTF2014 Hlx4P0aGiLwJIbHhPtBXHA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.18.2:52848 [AP] #5890
+  ballz..Server: CTF2014 yLX+8FrnEmYTZLhAEU4iKA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.5.2:4146 [AP] #6786
+  ballz..Server: CTF2014 C3NKYL+Jwg5T732gW2SaDA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:39479 [AP] #6988
+  ballz..Server: CTF2014 K8Q74tf+g28O16yKcxmkBw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:58659 [AP] #7275
+  ballz..Server: CTF2014 cTIilNmwHUTptUF62WSbfQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.3.2:52920 [AP] #7736
+  ballz..Server: CTF2014 EoQ/GUy9d5c7o/1eU2jw3Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:43692 [AP] #8751
+  ballz..Server: CTF2014 FxXERbTWPaMWfciEqYLJMQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:4157 [AP] #9077
+  ballz..Server: CTF2014 Pt6oa+LdKnL/3fWCsLfKhg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.4.2:52986 [AP] #9152
+  ballz..Server: CTF2014 GJJ+Vc9wWAkyi9pP29YhMw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.16.2:51278 [AP] #9175
+  ballz..Server: CTF2014 ZozUTkfWVyBMzZvA31/VSg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.19.2:4168 [AP] #9243
+  ballz..Server: CTF2014 VyEx9QV24Hd3YQl3ewjcFg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.8.2:4178 [AP] #9671
+  ballz..Server: CTF2014 90sEQKhA/hsF4r81qZ12EA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:58757 [AP] #9690
+  ballz..Server: CTF2014 qmIRpKShlpTjFo5nM3rPbg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:4189 [AP] #10091
+  ballz..Server: CTF2014 jHA5j6SvYPhOmy5d9oDy9Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.4.2:53047 [AP] #10140
+  ballz..Server: CTF2014 Ik3tdQvzY89pVR3WT+MS/Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.9.2:43792 [AP] #10286
+  ballz..Server: CTF2014 eVnkxYDQTJN1UiU7dJfWfQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:4199 [AP] #10325
+  ballz..Server: CTF2014 iLzu0KZAAttNF3aBw5xWTA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:58694 [AP] #10349
+  ballz..Server: CTF2014 avh5AJwV9vnurQL5/3QBdQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:39618 [AP] #10651
+  ballz..Server: CTF2014 mvrfTzpiDBpADqVqYWtKIw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:58858 [AP] #10838
+  ballz..Server: CTF2014 Qv+PUK/yA9WAK/GQZI55Uw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:53107 [AP] #10902
+  ballz..Server: CTF2014 S7U5dXUs8QflUsrLLVpxhg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.4.2:58695 [AP] #11053
+  ballz..Server: CTF2014 zoOlxYfNlsOBYAi/vvU7Eg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.16.2:51224 [AP] #11321
+  ballz..Server: CTF2014 vTCHHurRoZmds//pSWzAGg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:43917 [AP] #11558
+  ballz..Server: CTF2014 Sc4DgMjdBJ4aBbuB2Bv04Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.10.2:53194 [AP] #11777
+  ballz..Server: CTF2014 7v5JQX5bQFkJhoJvoB//Ag==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:58696 [AP] #11841
+  ballz..Server: CTF2014 MqJIFyvCl2PYsRqADpwG7Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.10.2:58945 [AP] #12249
+  ballz..Server: CTF2014 uAHG2gy4XSt/pH40skCV3g==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.13.2:4230 [AP] #12509
+  ballz..Server: CTF2014 i1QkyHMJOeCfqdZzGrMESQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.11.2:53267 [AP] #12558
+  ballz..Server: CTF2014 dJQGmrACE9WDBTYssYgBBw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.11.2:4239 [AP] #12702
+  ballz..Server: CTF2014 mNikePTH1m+8r4L/oeZylQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:44053 [AP] #12894
+  ballz..Server: CTF2014 N1QKBEv9tLi61bO0CZGqkA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:58698 [AP] #12969
+  ballz..Server: CTF2014 tOt7eExlhfda59bIS5dbfg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.13.2:4250 [AP] #13130
+  ballz..Server: CTF2014 T+HtvJdjgZamkDL5schoTA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:39846 [AP] #13150
+  ballz..Server: CTF2014 uYSZEp7DbcAQtATATFUpEA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.5.2:4260 [AP] #13266
+  ballz..Server: CTF2014 jipNLRHkRMVsibCGQbI2TQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:59052 [AP] #13272
+  ballz..Server: CTF2014 Wa8UnrdKrmZP/ygfpVIgyg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:36433 [AFP] #13282
+  ballz..Server: CTF2014 Yel4GSdiirEmUq3qMRqXtQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.*** Error in `wdub': free(): invalid pointer: 0x00078fe8 ***.                                              
+
+T 10.5.15.2:4444 -> 10.5.1.2:53310 [AP] #13313
+  ballz..Server: CTF2014 0JBA+o7upFcUXaxDPjfbuw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.14.2:4270 [AP] #13392
+  ballz..Server: CTF2014 CyE2MejHa0Fc8jo40DLBuw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:4279 [AP] #13525
+  ballz..Server: CTF2014 T99aYw0pFQbKtNRoUfGOUg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:53379 [AP] #13959
+  ballz..Server: CTF2014 0JIe4QVPF7Ie9uSc3n9OsQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.16.2:44177 [AP] #14006
+  ballz..Server: CTF2014 OKmmdsqjf6awwZjDG95nWA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.8.2:59144 [AP] #14343
+  ballz..Server: CTF2014 N4uMLP8ffj/YGyEjddM+jg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.6.2:51301 [AP] #14616
+  ballz..Server: CTF2014 VV9g1PUdxcR+h8qj49NhEQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.6.2:53464 [AP] #14768
+  ballz..Server: CTF2014 S6o1Iq9oL9DRlvq4o2hUhg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.8.2:40086 [AP] #15295
+  ballz..Server: CTF2014 pFUL1Z07KdlAzOaBVpth/w==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.14.2:44303 [AP] #15330
+  ballz..Server: CTF2014 ErUWwRtsj33lhKBqd98mgQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.18.2:59265 [AP] #15501
+  ballz..Server: CTF2014 aJGxxRz1cPKSPOyWeS1ghw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.13.2:53528 [AP] #15643
+  ballz..Server: CTF2014 8Q6KjYOXg/Qe/X1Ap0G2MA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.12.2:53571 [AP] #15951
+  ballz..Server: CTF2014 r2WA/6X1M3w4DTE/7Cp1Fg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:53636 [AP] #16315
+  ballz..Server: CTF2014 4KyB23++10k0zsch7/CJmw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.14.2:44439 [AP] #16638
+  ballz..Server: CTF2014 +jqx3Xm8LeO/9a1+wX82Mw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.12.2:59366 [AP] #16644
+  ballz..Server: CTF2014 MKlBnTYBSTSIqPdGnn7uRQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:36896 [AFP] #16686
+  ballz..Server: CTF2014 ZA9LM2JKGaN8+KH6AznSmQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.*** Error in `wdub': free(): invalid pointer: 0x00078fe8 ***.                                              
+
+T 10.5.15.2:4444 -> 10.5.20.2:53684 [AP] #16924
+  ballz..Server: CTF2014 ezFYVvM2F2eon2h3aErQyg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.4.2:4291 [AP] #17007
+  ballz..Server: CTF2014 AYBhUx3LvjKo2MXqG3gD/g==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+input: /Users/macbook/Desktop/ssu/LAST_SEMESTER/cs496/defconscorelib/pcaps/dragonsector/dragonsector_00076_20140808161530.cap
+filter: (ip || ip6)
+match: O.B.m.4.x.Z.Y.m.4.y.2.r.U.
+
+T 10.5.15.2:4444 -> 10.5.8.2:4109 [AP] #2737
+  ballz..Server: CTF2014 RaAXA6xiAWmU8oVdM2y4UQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.11.2:52784 [AP] #3480
+  ballz..Server: CTF2014 5sNChTZCADwPjZYTbrl0EA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:4124 [AP] #4488
+  ballz..Server: CTF2014 BeNFiPAZ7uPMRTo8v59yfA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.13.2:58566 [AP] #4623
+  ballz..Server: CTF2014 NI+jpnGSp7W7ifx4IpRWnQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.3.2:4135 [AP] #5429
+  ballz..Server: CTF2014 9Fnpxi66yrLxvMJSBY302A==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.10.2:35801 [AFP] #5451
+  ballz..Server: CTF2014 +esKdFSfOkMdH1mYjsrrqg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.*** Error in `wdub': free(): invalid pointer: 0x00078fe8 ***.                                              
+
+T 10.5.15.2:4444 -> 10.5.6.2:43585 [AP] #5486
+  ballz..Server: CTF2014 saRwnXhKar0W02U5vOBNVQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:51145 [AP] #5656
+  ballz..Server: CTF2014 Hlx4P0aGiLwJIbHhPtBXHA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.18.2:52848 [AP] #5890
+  ballz..Server: CTF2014 yLX+8FrnEmYTZLhAEU4iKA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.5.2:4146 [AP] #6786
+  ballz..Server: CTF2014 C3NKYL+Jwg5T732gW2SaDA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:39479 [AP] #6988
+  ballz..Server: CTF2014 K8Q74tf+g28O16yKcxmkBw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:58659 [AP] #7275
+  ballz..Server: CTF2014 cTIilNmwHUTptUF62WSbfQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.3.2:52920 [AP] #7736
+  ballz..Server: CTF2014 EoQ/GUy9d5c7o/1eU2jw3Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:43692 [AP] #8751
+  ballz..Server: CTF2014 FxXERbTWPaMWfciEqYLJMQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:4157 [AP] #9077
+  ballz..Server: CTF2014 Pt6oa+LdKnL/3fWCsLfKhg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.4.2:52986 [AP] #9152
+  ballz..Server: CTF2014 GJJ+Vc9wWAkyi9pP29YhMw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.16.2:51278 [AP] #9175
+  ballz..Server: CTF2014 ZozUTkfWVyBMzZvA31/VSg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.19.2:4168 [AP] #9243
+  ballz..Server: CTF2014 VyEx9QV24Hd3YQl3ewjcFg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.8.2:4178 [AP] #9671
+  ballz..Server: CTF2014 90sEQKhA/hsF4r81qZ12EA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:58757 [AP] #9690
+  ballz..Server: CTF2014 qmIRpKShlpTjFo5nM3rPbg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:4189 [AP] #10091
+  ballz..Server: CTF2014 jHA5j6SvYPhOmy5d9oDy9Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.4.2:53047 [AP] #10140
+  ballz..Server: CTF2014 Ik3tdQvzY89pVR3WT+MS/Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.9.2:43792 [AP] #10286
+  ballz..Server: CTF2014 eVnkxYDQTJN1UiU7dJfWfQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:4199 [AP] #10325
+  ballz..Server: CTF2014 iLzu0KZAAttNF3aBw5xWTA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:58694 [AP] #10349
+  ballz..Server: CTF2014 avh5AJwV9vnurQL5/3QBdQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:39618 [AP] #10651
+  ballz..Server: CTF2014 mvrfTzpiDBpADqVqYWtKIw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:58858 [AP] #10838
+  ballz..Server: CTF2014 Qv+PUK/yA9WAK/GQZI55Uw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:53107 [AP] #10902
+  ballz..Server: CTF2014 S7U5dXUs8QflUsrLLVpxhg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.4.2:58695 [AP] #11053
+  ballz..Server: CTF2014 zoOlxYfNlsOBYAi/vvU7Eg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.16.2:51224 [AP] #11321
+  ballz..Server: CTF2014 vTCHHurRoZmds//pSWzAGg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:43917 [AP] #11558
+  ballz..Server: CTF2014 Sc4DgMjdBJ4aBbuB2Bv04Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.10.2:53194 [AP] #11777
+  ballz..Server: CTF2014 7v5JQX5bQFkJhoJvoB//Ag==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:58696 [AP] #11841
+  ballz..Server: CTF2014 MqJIFyvCl2PYsRqADpwG7Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.10.2:58945 [AP] #12249
+  ballz..Server: CTF2014 uAHG2gy4XSt/pH40skCV3g==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.13.2:4230 [AP] #12509
+  ballz..Server: CTF2014 i1QkyHMJOeCfqdZzGrMESQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.11.2:53267 [AP] #12558
+  ballz..Server: CTF2014 dJQGmrACE9WDBTYssYgBBw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.11.2:4239 [AP] #12702
+  ballz..Server: CTF2014 mNikePTH1m+8r4L/oeZylQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:44053 [AP] #12894
+  ballz..Server: CTF2014 N1QKBEv9tLi61bO0CZGqkA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:58698 [AP] #12969
+  ballz..Server: CTF2014 tOt7eExlhfda59bIS5dbfg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.13.2:4250 [AP] #13130
+  ballz..Server: CTF2014 T+HtvJdjgZamkDL5schoTA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:39846 [AP] #13150
+  ballz..Server: CTF2014 uYSZEp7DbcAQtATATFUpEA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.5.2:4260 [AP] #13266
+  ballz..Server: CTF2014 jipNLRHkRMVsibCGQbI2TQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:59052 [AP] #13272
+  ballz..Server: CTF2014 Wa8UnrdKrmZP/ygfpVIgyg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:36433 [AFP] #13282
+  ballz..Server: CTF2014 Yel4GSdiirEmUq3qMRqXtQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.*** Error in `wdub': free(): invalid pointer: 0x00078fe8 ***.                                              
+
+T 10.5.15.2:4444 -> 10.5.1.2:53310 [AP] #13313
+  ballz..Server: CTF2014 0JBA+o7upFcUXaxDPjfbuw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.14.2:4270 [AP] #13392
+  ballz..Server: CTF2014 CyE2MejHa0Fc8jo40DLBuw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:4279 [AP] #13525
+  ballz..Server: CTF2014 T99aYw0pFQbKtNRoUfGOUg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:53379 [AP] #13959
+  ballz..Server: CTF2014 0JIe4QVPF7Ie9uSc3n9OsQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.16.2:44177 [AP] #14006
+  ballz..Server: CTF2014 OKmmdsqjf6awwZjDG95nWA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.8.2:59144 [AP] #14343
+  ballz..Server: CTF2014 N4uMLP8ffj/YGyEjddM+jg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.6.2:51301 [AP] #14616
+  ballz..Server: CTF2014 VV9g1PUdxcR+h8qj49NhEQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.6.2:53464 [AP] #14768
+  ballz..Server: CTF2014 S6o1Iq9oL9DRlvq4o2hUhg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.8.2:40086 [AP] #15295
+  ballz..Server: CTF2014 pFUL1Z07KdlAzOaBVpth/w==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.14.2:44303 [AP] #15330
+  ballz..Server: CTF2014 ErUWwRtsj33lhKBqd98mgQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.18.2:59265 [AP] #15501
+  ballz..Server: CTF2014 aJGxxRz1cPKSPOyWeS1ghw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.13.2:53528 [AP] #15643
+  ballz..Server: CTF2014 8Q6KjYOXg/Qe/X1Ap0G2MA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.12.2:53571 [AP] #15951
+  ballz..Server: CTF2014 r2WA/6X1M3w4DTE/7Cp1Fg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:53636 [AP] #16315
+  ballz..Server: CTF2014 4KyB23++10k0zsch7/CJmw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.14.2:44439 [AP] #16638
+  ballz..Server: CTF2014 +jqx3Xm8LeO/9a1+wX82Mw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.12.2:59366 [AP] #16644
+  ballz..Server: CTF2014 MKlBnTYBSTSIqPdGnn7uRQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:36896 [AFP] #16686
+  ballz..Server: CTF2014 ZA9LM2JKGaN8+KH6AznSmQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.*** Error in `wdub': free(): invalid pointer: 0x00078fe8 ***.                                              
+
+T 10.5.15.2:4444 -> 10.5.20.2:53684 [AP] #16924
+  ballz..Server: CTF2014 ezFYVvM2F2eon2h3aErQyg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.4.2:4291 [AP] #17007
+  ballz..Server: CTF2014 AYBhUx3LvjKo2MXqG3gD/g==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+input: /Users/macbook/Desktop/ssu/LAST_SEMESTER/cs496/defconscorelib/pcaps/dragonsector/dragonsector_00076_20140808161530.cap
+filter: (ip || ip6)
+match: O.B.m.4.x.Z.Y.m.4.y.2.r.U.
+
+T 10.5.15.2:4444 -> 10.5.8.2:4109 [AP] #2737
+  ballz..Server: CTF2014 RaAXA6xiAWmU8oVdM2y4UQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.11.2:52784 [AP] #3480
+  ballz..Server: CTF2014 5sNChTZCADwPjZYTbrl0EA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:4124 [AP] #4488
+  ballz..Server: CTF2014 BeNFiPAZ7uPMRTo8v59yfA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.13.2:58566 [AP] #4623
+  ballz..Server: CTF2014 NI+jpnGSp7W7ifx4IpRWnQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.3.2:4135 [AP] #5429
+  ballz..Server: CTF2014 9Fnpxi66yrLxvMJSBY302A==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.10.2:35801 [AFP] #5451
+  ballz..Server: CTF2014 +esKdFSfOkMdH1mYjsrrqg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.*** Error in `wdub': free(): invalid pointer: 0x00078fe8 ***.                                              
+
+T 10.5.15.2:4444 -> 10.5.6.2:43585 [AP] #5486
+  ballz..Server: CTF2014 saRwnXhKar0W02U5vOBNVQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:51145 [AP] #5656
+  ballz..Server: CTF2014 Hlx4P0aGiLwJIbHhPtBXHA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.18.2:52848 [AP] #5890
+  ballz..Server: CTF2014 yLX+8FrnEmYTZLhAEU4iKA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.5.2:4146 [AP] #6786
+  ballz..Server: CTF2014 C3NKYL+Jwg5T732gW2SaDA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:39479 [AP] #6988
+  ballz..Server: CTF2014 K8Q74tf+g28O16yKcxmkBw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:58659 [AP] #7275
+  ballz..Server: CTF2014 cTIilNmwHUTptUF62WSbfQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.3.2:52920 [AP] #7736
+  ballz..Server: CTF2014 EoQ/GUy9d5c7o/1eU2jw3Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:43692 [AP] #8751
+  ballz..Server: CTF2014 FxXERbTWPaMWfciEqYLJMQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:4157 [AP] #9077
+  ballz..Server: CTF2014 Pt6oa+LdKnL/3fWCsLfKhg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.4.2:52986 [AP] #9152
+  ballz..Server: CTF2014 GJJ+Vc9wWAkyi9pP29YhMw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.16.2:51278 [AP] #9175
+  ballz..Server: CTF2014 ZozUTkfWVyBMzZvA31/VSg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.19.2:4168 [AP] #9243
+  ballz..Server: CTF2014 VyEx9QV24Hd3YQl3ewjcFg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.8.2:4178 [AP] #9671
+  ballz..Server: CTF2014 90sEQKhA/hsF4r81qZ12EA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:58757 [AP] #9690
+  ballz..Server: CTF2014 qmIRpKShlpTjFo5nM3rPbg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:4189 [AP] #10091
+  ballz..Server: CTF2014 jHA5j6SvYPhOmy5d9oDy9Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.4.2:53047 [AP] #10140
+  ballz..Server: CTF2014 Ik3tdQvzY89pVR3WT+MS/Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.9.2:43792 [AP] #10286
+  ballz..Server: CTF2014 eVnkxYDQTJN1UiU7dJfWfQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:4199 [AP] #10325
+  ballz..Server: CTF2014 iLzu0KZAAttNF3aBw5xWTA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:58694 [AP] #10349
+  ballz..Server: CTF2014 avh5AJwV9vnurQL5/3QBdQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:39618 [AP] #10651
+  ballz..Server: CTF2014 mvrfTzpiDBpADqVqYWtKIw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:58858 [AP] #10838
+  ballz..Server: CTF2014 Qv+PUK/yA9WAK/GQZI55Uw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:53107 [AP] #10902
+  ballz..Server: CTF2014 S7U5dXUs8QflUsrLLVpxhg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.4.2:58695 [AP] #11053
+  ballz..Server: CTF2014 zoOlxYfNlsOBYAi/vvU7Eg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.16.2:51224 [AP] #11321
+  ballz..Server: CTF2014 vTCHHurRoZmds//pSWzAGg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:43917 [AP] #11558
+  ballz..Server: CTF2014 Sc4DgMjdBJ4aBbuB2Bv04Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.10.2:53194 [AP] #11777
+  ballz..Server: CTF2014 7v5JQX5bQFkJhoJvoB//Ag==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:58696 [AP] #11841
+  ballz..Server: CTF2014 MqJIFyvCl2PYsRqADpwG7Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.10.2:58945 [AP] #12249
+  ballz..Server: CTF2014 uAHG2gy4XSt/pH40skCV3g==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.13.2:4230 [AP] #12509
+  ballz..Server: CTF2014 i1QkyHMJOeCfqdZzGrMESQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.11.2:53267 [AP] #12558
+  ballz..Server: CTF2014 dJQGmrACE9WDBTYssYgBBw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.11.2:4239 [AP] #12702
+  ballz..Server: CTF2014 mNikePTH1m+8r4L/oeZylQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:44053 [AP] #12894
+  ballz..Server: CTF2014 N1QKBEv9tLi61bO0CZGqkA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:58698 [AP] #12969
+  ballz..Server: CTF2014 tOt7eExlhfda59bIS5dbfg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.13.2:4250 [AP] #13130
+  ballz..Server: CTF2014 T+HtvJdjgZamkDL5schoTA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:39846 [AP] #13150
+  ballz..Server: CTF2014 uYSZEp7DbcAQtATATFUpEA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.5.2:4260 [AP] #13266
+  ballz..Server: CTF2014 jipNLRHkRMVsibCGQbI2TQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:59052 [AP] #13272
+  ballz..Server: CTF2014 Wa8UnrdKrmZP/ygfpVIgyg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:36433 [AFP] #13282
+  ballz..Server: CTF2014 Yel4GSdiirEmUq3qMRqXtQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.*** Error in `wdub': free(): invalid pointer: 0x00078fe8 ***.                                              
+
+T 10.5.15.2:4444 -> 10.5.1.2:53310 [AP] #13313
+  ballz..Server: CTF2014 0JBA+o7upFcUXaxDPjfbuw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.14.2:4270 [AP] #13392
+  ballz..Server: CTF2014 CyE2MejHa0Fc8jo40DLBuw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:4279 [AP] #13525
+  ballz..Server: CTF2014 T99aYw0pFQbKtNRoUfGOUg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:53379 [AP] #13959
+  ballz..Server: CTF2014 0JIe4QVPF7Ie9uSc3n9OsQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.16.2:44177 [AP] #14006
+  ballz..Server: CTF2014 OKmmdsqjf6awwZjDG95nWA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.8.2:59144 [AP] #14343
+  ballz..Server: CTF2014 N4uMLP8ffj/YGyEjddM+jg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.6.2:51301 [AP] #14616
+  ballz..Server: CTF2014 VV9g1PUdxcR+h8qj49NhEQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.6.2:53464 [AP] #14768
+  ballz..Server: CTF2014 S6o1Iq9oL9DRlvq4o2hUhg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.8.2:40086 [AP] #15295
+  ballz..Server: CTF2014 pFUL1Z07KdlAzOaBVpth/w==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.14.2:44303 [AP] #15330
+  ballz..Server: CTF2014 ErUWwRtsj33lhKBqd98mgQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.18.2:59265 [AP] #15501
+  ballz..Server: CTF2014 aJGxxRz1cPKSPOyWeS1ghw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.13.2:53528 [AP] #15643
+  ballz..Server: CTF2014 8Q6KjYOXg/Qe/X1Ap0G2MA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.12.2:53571 [AP] #15951
+  ballz..Server: CTF2014 r2WA/6X1M3w4DTE/7Cp1Fg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:53636 [AP] #16315
+  ballz..Server: CTF2014 4KyB23++10k0zsch7/CJmw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.14.2:44439 [AP] #16638
+  ballz..Server: CTF2014 +jqx3Xm8LeO/9a1+wX82Mw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.12.2:59366 [AP] #16644
+  ballz..Server: CTF2014 MKlBnTYBSTSIqPdGnn7uRQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:36896 [AFP] #16686
+  ballz..Server: CTF2014 ZA9LM2JKGaN8+KH6AznSmQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.*** Error in `wdub': free(): invalid pointer: 0x00078fe8 ***.                                              
+
+T 10.5.15.2:4444 -> 10.5.20.2:53684 [AP] #16924
+  ballz..Server: CTF2014 ezFYVvM2F2eon2h3aErQyg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.4.2:4291 [AP] #17007
+  ballz..Server: CTF2014 AYBhUx3LvjKo2MXqG3gD/g==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+input: /Users/macbook/Desktop/ssu/LAST_SEMESTER/cs496/defconscorelib/pcaps/dragonsector/dragonsector_00076_20140808161530.cap
+filter: (ip || ip6)
+match: O.B.m.4.x.Z.Y.m.4.y.2.r.U.
+
+T 10.5.15.2:4444 -> 10.5.8.2:4109 [AP] #2737
+  ballz..Server: CTF2014 RaAXA6xiAWmU8oVdM2y4UQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.11.2:52784 [AP] #3480
+  ballz..Server: CTF2014 5sNChTZCADwPjZYTbrl0EA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:4124 [AP] #4488
+  ballz..Server: CTF2014 BeNFiPAZ7uPMRTo8v59yfA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.13.2:58566 [AP] #4623
+  ballz..Server: CTF2014 NI+jpnGSp7W7ifx4IpRWnQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.3.2:4135 [AP] #5429
+  ballz..Server: CTF2014 9Fnpxi66yrLxvMJSBY302A==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.10.2:35801 [AFP] #5451
+  ballz..Server: CTF2014 +esKdFSfOkMdH1mYjsrrqg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.*** Error in `wdub': free(): invalid pointer: 0x00078fe8 ***.                                              
+
+T 10.5.15.2:4444 -> 10.5.6.2:43585 [AP] #5486
+  ballz..Server: CTF2014 saRwnXhKar0W02U5vOBNVQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:51145 [AP] #5656
+  ballz..Server: CTF2014 Hlx4P0aGiLwJIbHhPtBXHA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.18.2:52848 [AP] #5890
+  ballz..Server: CTF2014 yLX+8FrnEmYTZLhAEU4iKA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.5.2:4146 [AP] #6786
+  ballz..Server: CTF2014 C3NKYL+Jwg5T732gW2SaDA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:39479 [AP] #6988
+  ballz..Server: CTF2014 K8Q74tf+g28O16yKcxmkBw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:58659 [AP] #7275
+  ballz..Server: CTF2014 cTIilNmwHUTptUF62WSbfQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.3.2:52920 [AP] #7736
+  ballz..Server: CTF2014 EoQ/GUy9d5c7o/1eU2jw3Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:43692 [AP] #8751
+  ballz..Server: CTF2014 FxXERbTWPaMWfciEqYLJMQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:4157 [AP] #9077
+  ballz..Server: CTF2014 Pt6oa+LdKnL/3fWCsLfKhg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.4.2:52986 [AP] #9152
+  ballz..Server: CTF2014 GJJ+Vc9wWAkyi9pP29YhMw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.16.2:51278 [AP] #9175
+  ballz..Server: CTF2014 ZozUTkfWVyBMzZvA31/VSg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.19.2:4168 [AP] #9243
+  ballz..Server: CTF2014 VyEx9QV24Hd3YQl3ewjcFg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.8.2:4178 [AP] #9671
+  ballz..Server: CTF2014 90sEQKhA/hsF4r81qZ12EA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:58757 [AP] #9690
+  ballz..Server: CTF2014 qmIRpKShlpTjFo5nM3rPbg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:4189 [AP] #10091
+  ballz..Server: CTF2014 jHA5j6SvYPhOmy5d9oDy9Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.4.2:53047 [AP] #10140
+  ballz..Server: CTF2014 Ik3tdQvzY89pVR3WT+MS/Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.9.2:43792 [AP] #10286
+  ballz..Server: CTF2014 eVnkxYDQTJN1UiU7dJfWfQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:4199 [AP] #10325
+  ballz..Server: CTF2014 iLzu0KZAAttNF3aBw5xWTA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:58694 [AP] #10349
+  ballz..Server: CTF2014 avh5AJwV9vnurQL5/3QBdQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:39618 [AP] #10651
+  ballz..Server: CTF2014 mvrfTzpiDBpADqVqYWtKIw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:58858 [AP] #10838
+  ballz..Server: CTF2014 Qv+PUK/yA9WAK/GQZI55Uw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:53107 [AP] #10902
+  ballz..Server: CTF2014 S7U5dXUs8QflUsrLLVpxhg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.4.2:58695 [AP] #11053
+  ballz..Server: CTF2014 zoOlxYfNlsOBYAi/vvU7Eg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.16.2:51224 [AP] #11321
+  ballz..Server: CTF2014 vTCHHurRoZmds//pSWzAGg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:43917 [AP] #11558
+  ballz..Server: CTF2014 Sc4DgMjdBJ4aBbuB2Bv04Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.10.2:53194 [AP] #11777
+  ballz..Server: CTF2014 7v5JQX5bQFkJhoJvoB//Ag==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:58696 [AP] #11841
+  ballz..Server: CTF2014 MqJIFyvCl2PYsRqADpwG7Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.10.2:58945 [AP] #12249
+  ballz..Server: CTF2014 uAHG2gy4XSt/pH40skCV3g==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.13.2:4230 [AP] #12509
+  ballz..Server: CTF2014 i1QkyHMJOeCfqdZzGrMESQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.11.2:53267 [AP] #12558
+  ballz..Server: CTF2014 dJQGmrACE9WDBTYssYgBBw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.11.2:4239 [AP] #12702
+  ballz..Server: CTF2014 mNikePTH1m+8r4L/oeZylQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:44053 [AP] #12894
+  ballz..Server: CTF2014 N1QKBEv9tLi61bO0CZGqkA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:58698 [AP] #12969
+  ballz..Server: CTF2014 tOt7eExlhfda59bIS5dbfg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.13.2:4250 [AP] #13130
+  ballz..Server: CTF2014 T+HtvJdjgZamkDL5schoTA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:39846 [AP] #13150
+  ballz..Server: CTF2014 uYSZEp7DbcAQtATATFUpEA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.5.2:4260 [AP] #13266
+  ballz..Server: CTF2014 jipNLRHkRMVsibCGQbI2TQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:59052 [AP] #13272
+  ballz..Server: CTF2014 Wa8UnrdKrmZP/ygfpVIgyg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:36433 [AFP] #13282
+  ballz..Server: CTF2014 Yel4GSdiirEmUq3qMRqXtQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.*** Error in `wdub': free(): invalid pointer: 0x00078fe8 ***.                                              
+
+T 10.5.15.2:4444 -> 10.5.1.2:53310 [AP] #13313
+  ballz..Server: CTF2014 0JBA+o7upFcUXaxDPjfbuw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.14.2:4270 [AP] #13392
+  ballz..Server: CTF2014 CyE2MejHa0Fc8jo40DLBuw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:4279 [AP] #13525
+  ballz..Server: CTF2014 T99aYw0pFQbKtNRoUfGOUg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:53379 [AP] #13959
+  ballz..Server: CTF2014 0JIe4QVPF7Ie9uSc3n9OsQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.16.2:44177 [AP] #14006
+  ballz..Server: CTF2014 OKmmdsqjf6awwZjDG95nWA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.8.2:59144 [AP] #14343
+  ballz..Server: CTF2014 N4uMLP8ffj/YGyEjddM+jg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.6.2:51301 [AP] #14616
+  ballz..Server: CTF2014 VV9g1PUdxcR+h8qj49NhEQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.6.2:53464 [AP] #14768
+  ballz..Server: CTF2014 S6o1Iq9oL9DRlvq4o2hUhg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.8.2:40086 [AP] #15295
+  ballz..Server: CTF2014 pFUL1Z07KdlAzOaBVpth/w==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.14.2:44303 [AP] #15330
+  ballz..Server: CTF2014 ErUWwRtsj33lhKBqd98mgQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.18.2:59265 [AP] #15501
+  ballz..Server: CTF2014 aJGxxRz1cPKSPOyWeS1ghw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.13.2:53528 [AP] #15643
+  ballz..Server: CTF2014 8Q6KjYOXg/Qe/X1Ap0G2MA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.12.2:53571 [AP] #15951
+  ballz..Server: CTF2014 r2WA/6X1M3w4DTE/7Cp1Fg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:53636 [AP] #16315
+  ballz..Server: CTF2014 4KyB23++10k0zsch7/CJmw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.14.2:44439 [AP] #16638
+  ballz..Server: CTF2014 +jqx3Xm8LeO/9a1+wX82Mw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.12.2:59366 [AP] #16644
+  ballz..Server: CTF2014 MKlBnTYBSTSIqPdGnn7uRQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:36896 [AFP] #16686
+  ballz..Server: CTF2014 ZA9LM2JKGaN8+KH6AznSmQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.*** Error in `wdub': free(): invalid pointer: 0x00078fe8 ***.                                              
+
+T 10.5.15.2:4444 -> 10.5.20.2:53684 [AP] #16924
+  ballz..Server: CTF2014 ezFYVvM2F2eon2h3aErQyg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.4.2:4291 [AP] #17007
+  ballz..Server: CTF2014 AYBhUx3LvjKo2MXqG3gD/g==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+input: /Users/macbook/Desktop/ssu/LAST_SEMESTER/cs496/defconscorelib/pcaps/dragonsector/dragonsector_00076_20140808161530.cap
+filter: (ip || ip6)
+match: O.B.m.4.x.Z.Y.m.4.y.2.r.U.
+
+T 10.5.15.2:4444 -> 10.5.8.2:4109 [AP] #2737
+  ballz..Server: CTF2014 RaAXA6xiAWmU8oVdM2y4UQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.11.2:52784 [AP] #3480
+  ballz..Server: CTF2014 5sNChTZCADwPjZYTbrl0EA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:4124 [AP] #4488
+  ballz..Server: CTF2014 BeNFiPAZ7uPMRTo8v59yfA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.13.2:58566 [AP] #4623
+  ballz..Server: CTF2014 NI+jpnGSp7W7ifx4IpRWnQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.3.2:4135 [AP] #5429
+  ballz..Server: CTF2014 9Fnpxi66yrLxvMJSBY302A==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.10.2:35801 [AFP] #5451
+  ballz..Server: CTF2014 +esKdFSfOkMdH1mYjsrrqg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.*** Error in `wdub': free(): invalid pointer: 0x00078fe8 ***.                                              
+
+T 10.5.15.2:4444 -> 10.5.6.2:43585 [AP] #5486
+  ballz..Server: CTF2014 saRwnXhKar0W02U5vOBNVQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:51145 [AP] #5656
+  ballz..Server: CTF2014 Hlx4P0aGiLwJIbHhPtBXHA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.18.2:52848 [AP] #5890
+  ballz..Server: CTF2014 yLX+8FrnEmYTZLhAEU4iKA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.5.2:4146 [AP] #6786
+  ballz..Server: CTF2014 C3NKYL+Jwg5T732gW2SaDA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:39479 [AP] #6988
+  ballz..Server: CTF2014 K8Q74tf+g28O16yKcxmkBw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:58659 [AP] #7275
+  ballz..Server: CTF2014 cTIilNmwHUTptUF62WSbfQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.3.2:52920 [AP] #7736
+  ballz..Server: CTF2014 EoQ/GUy9d5c7o/1eU2jw3Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:43692 [AP] #8751
+  ballz..Server: CTF2014 FxXERbTWPaMWfciEqYLJMQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:4157 [AP] #9077
+  ballz..Server: CTF2014 Pt6oa+LdKnL/3fWCsLfKhg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.4.2:52986 [AP] #9152
+  ballz..Server: CTF2014 GJJ+Vc9wWAkyi9pP29YhMw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.16.2:51278 [AP] #9175
+  ballz..Server: CTF2014 ZozUTkfWVyBMzZvA31/VSg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.19.2:4168 [AP] #9243
+  ballz..Server: CTF2014 VyEx9QV24Hd3YQl3ewjcFg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.8.2:4178 [AP] #9671
+  ballz..Server: CTF2014 90sEQKhA/hsF4r81qZ12EA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:58757 [AP] #9690
+  ballz..Server: CTF2014 qmIRpKShlpTjFo5nM3rPbg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:4189 [AP] #10091
+  ballz..Server: CTF2014 jHA5j6SvYPhOmy5d9oDy9Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.4.2:53047 [AP] #10140
+  ballz..Server: CTF2014 Ik3tdQvzY89pVR3WT+MS/Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.9.2:43792 [AP] #10286
+  ballz..Server: CTF2014 eVnkxYDQTJN1UiU7dJfWfQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:4199 [AP] #10325
+  ballz..Server: CTF2014 iLzu0KZAAttNF3aBw5xWTA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:58694 [AP] #10349
+  ballz..Server: CTF2014 avh5AJwV9vnurQL5/3QBdQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:39618 [AP] #10651
+  ballz..Server: CTF2014 mvrfTzpiDBpADqVqYWtKIw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:58858 [AP] #10838
+  ballz..Server: CTF2014 Qv+PUK/yA9WAK/GQZI55Uw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:53107 [AP] #10902
+  ballz..Server: CTF2014 S7U5dXUs8QflUsrLLVpxhg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.4.2:58695 [AP] #11053
+  ballz..Server: CTF2014 zoOlxYfNlsOBYAi/vvU7Eg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.16.2:51224 [AP] #11321
+  ballz..Server: CTF2014 vTCHHurRoZmds//pSWzAGg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:43917 [AP] #11558
+  ballz..Server: CTF2014 Sc4DgMjdBJ4aBbuB2Bv04Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.10.2:53194 [AP] #11777
+  ballz..Server: CTF2014 7v5JQX5bQFkJhoJvoB//Ag==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:58696 [AP] #11841
+  ballz..Server: CTF2014 MqJIFyvCl2PYsRqADpwG7Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.10.2:58945 [AP] #12249
+  ballz..Server: CTF2014 uAHG2gy4XSt/pH40skCV3g==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.13.2:4230 [AP] #12509
+  ballz..Server: CTF2014 i1QkyHMJOeCfqdZzGrMESQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.11.2:53267 [AP] #12558
+  ballz..Server: CTF2014 dJQGmrACE9WDBTYssYgBBw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.11.2:4239 [AP] #12702
+  ballz..Server: CTF2014 mNikePTH1m+8r4L/oeZylQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:44053 [AP] #12894
+  ballz..Server: CTF2014 N1QKBEv9tLi61bO0CZGqkA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:58698 [AP] #12969
+  ballz..Server: CTF2014 tOt7eExlhfda59bIS5dbfg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.13.2:4250 [AP] #13130
+  ballz..Server: CTF2014 T+HtvJdjgZamkDL5schoTA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:39846 [AP] #13150
+  ballz..Server: CTF2014 uYSZEp7DbcAQtATATFUpEA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.5.2:4260 [AP] #13266
+  ballz..Server: CTF2014 jipNLRHkRMVsibCGQbI2TQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:59052 [AP] #13272
+  ballz..Server: CTF2014 Wa8UnrdKrmZP/ygfpVIgyg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:36433 [AFP] #13282
+  ballz..Server: CTF2014 Yel4GSdiirEmUq3qMRqXtQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.*** Error in `wdub': free(): invalid pointer: 0x00078fe8 ***.                                              
+
+T 10.5.15.2:4444 -> 10.5.1.2:53310 [AP] #13313
+  ballz..Server: CTF2014 0JBA+o7upFcUXaxDPjfbuw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.14.2:4270 [AP] #13392
+  ballz..Server: CTF2014 CyE2MejHa0Fc8jo40DLBuw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:4279 [AP] #13525
+  ballz..Server: CTF2014 T99aYw0pFQbKtNRoUfGOUg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:53379 [AP] #13959
+  ballz..Server: CTF2014 0JIe4QVPF7Ie9uSc3n9OsQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.16.2:44177 [AP] #14006
+  ballz..Server: CTF2014 OKmmdsqjf6awwZjDG95nWA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.8.2:59144 [AP] #14343
+  ballz..Server: CTF2014 N4uMLP8ffj/YGyEjddM+jg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.6.2:51301 [AP] #14616
+  ballz..Server: CTF2014 VV9g1PUdxcR+h8qj49NhEQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.6.2:53464 [AP] #14768
+  ballz..Server: CTF2014 S6o1Iq9oL9DRlvq4o2hUhg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.8.2:40086 [AP] #15295
+  ballz..Server: CTF2014 pFUL1Z07KdlAzOaBVpth/w==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.14.2:44303 [AP] #15330
+  ballz..Server: CTF2014 ErUWwRtsj33lhKBqd98mgQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.18.2:59265 [AP] #15501
+  ballz..Server: CTF2014 aJGxxRz1cPKSPOyWeS1ghw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.13.2:53528 [AP] #15643
+  ballz..Server: CTF2014 8Q6KjYOXg/Qe/X1Ap0G2MA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.12.2:53571 [AP] #15951
+  ballz..Server: CTF2014 r2WA/6X1M3w4DTE/7Cp1Fg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:53636 [AP] #16315
+  ballz..Server: CTF2014 4KyB23++10k0zsch7/CJmw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.14.2:44439 [AP] #16638
+  ballz..Server: CTF2014 +jqx3Xm8LeO/9a1+wX82Mw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.12.2:59366 [AP] #16644
+  ballz..Server: CTF2014 MKlBnTYBSTSIqPdGnn7uRQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:36896 [AFP] #16686
+  ballz..Server: CTF2014 ZA9LM2JKGaN8+KH6AznSmQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.*** Error in `wdub': free(): invalid pointer: 0x00078fe8 ***.                                              
+
+T 10.5.15.2:4444 -> 10.5.20.2:53684 [AP] #16924
+  ballz..Server: CTF2014 ezFYVvM2F2eon2h3aErQyg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.4.2:4291 [AP] #17007
+  ballz..Server: CTF2014 AYBhUx3LvjKo2MXqG3gD/g==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+input: /Users/macbook/Desktop/ssu/LAST_SEMESTER/cs496/defconscorelib/pcaps/dragonsector/dragonsector_00076_20140808161530.cap
+filter: (ip || ip6)
+match: O.B.m.4.x.Z.Y.m.4.y.2.r.U.
+
+T 10.5.15.2:4444 -> 10.5.8.2:4109 [AP] #2737
+  ballz..Server: CTF2014 RaAXA6xiAWmU8oVdM2y4UQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.11.2:52784 [AP] #3480
+  ballz..Server: CTF2014 5sNChTZCADwPjZYTbrl0EA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:4124 [AP] #4488
+  ballz..Server: CTF2014 BeNFiPAZ7uPMRTo8v59yfA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.13.2:58566 [AP] #4623
+  ballz..Server: CTF2014 NI+jpnGSp7W7ifx4IpRWnQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.3.2:4135 [AP] #5429
+  ballz..Server: CTF2014 9Fnpxi66yrLxvMJSBY302A==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.10.2:35801 [AFP] #5451
+  ballz..Server: CTF2014 +esKdFSfOkMdH1mYjsrrqg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.*** Error in `wdub': free(): invalid pointer: 0x00078fe8 ***.                                              
+
+T 10.5.15.2:4444 -> 10.5.6.2:43585 [AP] #5486
+  ballz..Server: CTF2014 saRwnXhKar0W02U5vOBNVQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:51145 [AP] #5656
+  ballz..Server: CTF2014 Hlx4P0aGiLwJIbHhPtBXHA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.18.2:52848 [AP] #5890
+  ballz..Server: CTF2014 yLX+8FrnEmYTZLhAEU4iKA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.5.2:4146 [AP] #6786
+  ballz..Server: CTF2014 C3NKYL+Jwg5T732gW2SaDA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:39479 [AP] #6988
+  ballz..Server: CTF2014 K8Q74tf+g28O16yKcxmkBw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:58659 [AP] #7275
+  ballz..Server: CTF2014 cTIilNmwHUTptUF62WSbfQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.3.2:52920 [AP] #7736
+  ballz..Server: CTF2014 EoQ/GUy9d5c7o/1eU2jw3Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:43692 [AP] #8751
+  ballz..Server: CTF2014 FxXERbTWPaMWfciEqYLJMQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:4157 [AP] #9077
+  ballz..Server: CTF2014 Pt6oa+LdKnL/3fWCsLfKhg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.4.2:52986 [AP] #9152
+  ballz..Server: CTF2014 GJJ+Vc9wWAkyi9pP29YhMw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.16.2:51278 [AP] #9175
+  ballz..Server: CTF2014 ZozUTkfWVyBMzZvA31/VSg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.19.2:4168 [AP] #9243
+  ballz..Server: CTF2014 VyEx9QV24Hd3YQl3ewjcFg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.8.2:4178 [AP] #9671
+  ballz..Server: CTF2014 90sEQKhA/hsF4r81qZ12EA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:58757 [AP] #9690
+  ballz..Server: CTF2014 qmIRpKShlpTjFo5nM3rPbg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:4189 [AP] #10091
+  ballz..Server: CTF2014 jHA5j6SvYPhOmy5d9oDy9Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.4.2:53047 [AP] #10140
+  ballz..Server: CTF2014 Ik3tdQvzY89pVR3WT+MS/Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.9.2:43792 [AP] #10286
+  ballz..Server: CTF2014 eVnkxYDQTJN1UiU7dJfWfQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:4199 [AP] #10325
+  ballz..Server: CTF2014 iLzu0KZAAttNF3aBw5xWTA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:58694 [AP] #10349
+  ballz..Server: CTF2014 avh5AJwV9vnurQL5/3QBdQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:39618 [AP] #10651
+  ballz..Server: CTF2014 mvrfTzpiDBpADqVqYWtKIw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:58858 [AP] #10838
+  ballz..Server: CTF2014 Qv+PUK/yA9WAK/GQZI55Uw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:53107 [AP] #10902
+  ballz..Server: CTF2014 S7U5dXUs8QflUsrLLVpxhg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.4.2:58695 [AP] #11053
+  ballz..Server: CTF2014 zoOlxYfNlsOBYAi/vvU7Eg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.16.2:51224 [AP] #11321
+  ballz..Server: CTF2014 vTCHHurRoZmds//pSWzAGg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:43917 [AP] #11558
+  ballz..Server: CTF2014 Sc4DgMjdBJ4aBbuB2Bv04Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.10.2:53194 [AP] #11777
+  ballz..Server: CTF2014 7v5JQX5bQFkJhoJvoB//Ag==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:58696 [AP] #11841
+  ballz..Server: CTF2014 MqJIFyvCl2PYsRqADpwG7Q==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.10.2:58945 [AP] #12249
+  ballz..Server: CTF2014 uAHG2gy4XSt/pH40skCV3g==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.13.2:4230 [AP] #12509
+  ballz..Server: CTF2014 i1QkyHMJOeCfqdZzGrMESQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.11.2:53267 [AP] #12558
+  ballz..Server: CTF2014 dJQGmrACE9WDBTYssYgBBw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.11.2:4239 [AP] #12702
+  ballz..Server: CTF2014 mNikePTH1m+8r4L/oeZylQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:44053 [AP] #12894
+  ballz..Server: CTF2014 N1QKBEv9tLi61bO0CZGqkA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:58698 [AP] #12969
+  ballz..Server: CTF2014 tOt7eExlhfda59bIS5dbfg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.13.2:4250 [AP] #13130
+  ballz..Server: CTF2014 T+HtvJdjgZamkDL5schoTA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:39846 [AP] #13150
+  ballz..Server: CTF2014 uYSZEp7DbcAQtATATFUpEA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.5.2:4260 [AP] #13266
+  ballz..Server: CTF2014 jipNLRHkRMVsibCGQbI2TQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.17.2:59052 [AP] #13272
+  ballz..Server: CTF2014 Wa8UnrdKrmZP/ygfpVIgyg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.7.2:36433 [AFP] #13282
+  ballz..Server: CTF2014 Yel4GSdiirEmUq3qMRqXtQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.*** Error in `wdub': free(): invalid pointer: 0x00078fe8 ***.                                              
+
+T 10.5.15.2:4444 -> 10.5.1.2:53310 [AP] #13313
+  ballz..Server: CTF2014 0JBA+o7upFcUXaxDPjfbuw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.14.2:4270 [AP] #13392
+  ballz..Server: CTF2014 CyE2MejHa0Fc8jo40DLBuw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:4279 [AP] #13525
+  ballz..Server: CTF2014 T99aYw0pFQbKtNRoUfGOUg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.20.2:53379 [AP] #13959
+  ballz..Server: CTF2014 0JIe4QVPF7Ie9uSc3n9OsQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.16.2:44177 [AP] #14006
+  ballz..Server: CTF2014 OKmmdsqjf6awwZjDG95nWA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.8.2:59144 [AP] #14343
+  ballz..Server: CTF2014 N4uMLP8ffj/YGyEjddM+jg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.6.2:51301 [AP] #14616
+  ballz..Server: CTF2014 VV9g1PUdxcR+h8qj49NhEQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.6.2:53464 [AP] #14768
+  ballz..Server: CTF2014 S6o1Iq9oL9DRlvq4o2hUhg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.8.2:40086 [AP] #15295
+  ballz..Server: CTF2014 pFUL1Z07KdlAzOaBVpth/w==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.14.2:44303 [AP] #15330
+  ballz..Server: CTF2014 ErUWwRtsj33lhKBqd98mgQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.18.2:59265 [AP] #15501
+  ballz..Server: CTF2014 aJGxxRz1cPKSPOyWeS1ghw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.13.2:53528 [AP] #15643
+  ballz..Server: CTF2014 8Q6KjYOXg/Qe/X1Ap0G2MA==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.12.2:53571 [AP] #15951
+  ballz..Server: CTF2014 r2WA/6X1M3w4DTE/7Cp1Fg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:53636 [AP] #16315
+  ballz..Server: CTF2014 4KyB23++10k0zsch7/CJmw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.14.2:44439 [AP] #16638
+  ballz..Server: CTF2014 +jqx3Xm8LeO/9a1+wX82Mw==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.12.2:59366 [AP] #16644
+  ballz..Server: CTF2014 MKlBnTYBSTSIqPdGnn7uRQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.2.2:36896 [AFP] #16686
+  ballz..Server: CTF2014 ZA9LM2JKGaN8+KH6AznSmQ==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.*** Error in `wdub': free(): invalid pointer: 0x00078fe8 ***.                                              
+
+T 10.5.15.2:4444 -> 10.5.20.2:53684 [AP] #16924
+  ballz..Server: CTF2014 ezFYVvM2F2eon2h3aErQyg==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
+
+T 10.5.15.2:4444 -> 10.5.4.2:4291 [AP] #17007
+  ballz..Server: CTF2014 AYBhUx3LvjKo2MXqG3gD/g==..Shouts: Saito and Matsumoto..Set-Cookie: S661tg==::wM8VVw==::AkfG/Q==::AkfG/Q==..Content-Leng
+  th: 27..O2BomP4sxsZQYemL4qyM22rsUd.                                                                                                           
